@@ -1,1 +1,2 @@
 console.log("hy");
+console.log("hy, my name is iman and I am a software developer. I enjoy creating web applications and learning new technologies. In my free time, I like to read books, play video games, and explore the outdoors.");
